@@ -11,9 +11,16 @@
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Legal](#%EF%B8%8F-legal-disclaimer)
 
+## Application Preview
 </div>
-<div>
-   <img src="https://github.com/GrandpaHR/SMS/blob/main/pic/photo_2026-01-15_15-57-08.jpg?raw=true">
+
+<div align="center">
+  
+| Dashboard | Attacking |
+|:---:|:---:|
+| <img src="https://github.com/GrandpaHR/SMS/blob/main/pic/photo_2026-01-15_15-56-49.jpg?raw=true" width="400"> | <img src="https://github.com/GrandpaHR/SMS/blob/main/pic/photo_2026-01-15_15-57-08.jpg?raw=true" width="400"> |
+| *Dashboard Interface* | *Attacking Panel interface* |
+
 </div>
 ---
 
