@@ -111,7 +111,7 @@ cd SMS
 pip install -r requirements.txt
 
 # Run the program
-python SMS
+python main.py
 ```
 
 ### Method 3: Windows Installation
