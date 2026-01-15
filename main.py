@@ -1,5 +1,5 @@
 # Enhanced Python Encoder/Decoder Tool
-# Author: Modified Version
+# Author: Md:HR
 # Version: 2.0
 # Features: Encode & Decode Support
 
