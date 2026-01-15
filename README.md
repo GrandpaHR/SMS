@@ -12,7 +12,9 @@
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Legal](#%EF%B8%8F-legal-disclaimer)
 
 </div>
-
+<div>
+   <img src="https://github.com/GrandpaHR/SMS/blob/main/pic/photo_2026-01-15_15-57-08.jpg?raw=true">
+</div>
 ---
 
 ## 📋 Table of Contents
