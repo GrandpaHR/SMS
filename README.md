@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Termux-lightgrey.svg)
 
-**A powerful SMS testing tool with triple channel support and beautiful CLI interface**
+**A powerful SMS bombing tool with triple channel support and beautiful CLI interface**
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Legal](#%EF%B8%8F-legal-disclaimer)
 
