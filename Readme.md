@@ -1,4 +1,4 @@
-# 🚀 SMS Bomber v2.0 - Triple Channel System
+# 🚀 SMS Bomber v2.0 - powerd by Grandpa_Academy 
 
 <div align="center">
 
@@ -24,9 +24,7 @@
 - [Configuration](#%EF%B8%8F-configuration)
 - [Screenshots](#-screenshots)
 - [Support](#-support)
-- [Contributing](#-contributing)
 - [Legal Disclaimer](#%EF%B8%8F-legal-disclaimer)
-- [Author](#-author)
 
 ---
 
@@ -82,16 +80,16 @@ requests>=2.28.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/GrandpaHR/sms-bomber.git
+git clone https://github.com/GrandpaHR/SMS.git
 
 # Navigate to directory
-cd sms-bomber
+cd SMS
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the program
-python sms_bomber.py
+python main.py
 ```
 
 ### Method 2: Termux Installation
@@ -104,16 +102,16 @@ pkg update && pkg upgrade
 pkg install python git
 
 # Clone repository
-git clone https://github.com/GrandpaHR/sms-bomber.git
+git clone https://github.com/GrandpaHR/SMS.git
 
 # Navigate to directory
-cd sms-bomber
+cd SMS
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the program
-python sms_bomber.py
+python SMS
 ```
 
 ### Method 3: Windows Installation
@@ -122,16 +120,16 @@ python sms_bomber.py
 # Download Python from python.org (if not installed)
 
 # Clone repository
-git clone https://github.com/GrandpaHR/sms-bomber.git
+git clone https://github.com/GrandpaHR/SMS.git
 
 # Navigate to directory
-cd sms-bomber
+cd SMS
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the program
-python sms_bomber.py
+python main.py
 ```
 
 ---
@@ -142,7 +140,7 @@ python sms_bomber.py
 
 1. **Launch the program**
    ```bash
-   python sms_bomber.py
+   python main.py
    ```
 
 2. **Select option from menu**
@@ -247,7 +245,7 @@ self.apis = {
 ### Join Our Community
 
 - 📱 **Telegram**: [Termux Team BD](https://t.me/Termux_Team_BD_0)
-- 🐙 **GitHub**: [GrandpaHR](https://github.com/GrandpaHR)
+- 🐙 **F**: [Md:HR](https://github.com/GrandpaHR)
 
 ### Reporting Issues
 
@@ -256,33 +254,6 @@ Found a bug? Please open an issue on GitHub with:
 - Steps to reproduce
 - System information
 - Error messages (if any)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how:
-
-1. **Fork the repository**
-2. **Create feature branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit changes**
-   ```bash
-   git commit -m 'Add AmazingFeature'
-   ```
-4. **Push to branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open Pull Request**
-
-### Contribution Guidelines
-- Follow existing code style
-- Add comments for complex logic
-- Test thoroughly before submitting
-- Update documentation as needed
 
 ---
 
@@ -362,22 +333,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐ on GitHub!
-
----
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/GrandpaHR/sms-bomber?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GrandpaHR/sms-bomber?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/GrandpaHR/sms-bomber?style=social)
-
----
-
-## 🔄 Changelog
-
 ### Version 2.0 (Current)
 - ✨ Triple channel system
 - 🎨 Complete UI overhaul
@@ -394,10 +349,7 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 
 ---
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors
-- Special thanks to the Termux community
+##  Acknowledgments
 - Inspired by various security testing tools
 - Built with ❤️ for education
 
@@ -419,6 +371,6 @@ For inquiries, suggestions, or collaboration:
 
 ⚠️ **Use Responsibly | Stay Legal | Happy Learning** ⚠️
 
-[⬆ Back to Top](#-sms-bomber-v20---triple-channel-system)
+[⬆ Back to Top](#-sms-bomber-v20---powerd-by-grandpa_academy)
 
 </div>
